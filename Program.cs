@@ -128,6 +128,14 @@
             //string[] shooter_class = ["маг", "охотник", "жрец"];
             //if (shooter_class.Any(n => n == class_game )) { Console.WriteLine($"{class_game} - дальнобойщик"); }
             //else { Console.WriteLine($"{class_game} - ближний боец"); }
+            //Задание 12
+            //int sum = 0;
+            //for (int i = 0; i <3; i++)
+            //{
+            //    int a = Convert.ToInt32(Console.ReadLine());
+            //    if (a > 0) { sum += a; }
+            //}
+            //Console.WriteLine(sum);
         }
     }
 }

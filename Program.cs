@@ -31,6 +31,25 @@
             //int num2 = Convert.ToInt32(Console.ReadLine());
             //if (num1 > num2) { Console.WriteLine(num2); }
             //else { Console.WriteLine(num1); }
+            //Задание 6
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+            //string operation = Console.ReadLine();
+
+            //switch (operation) {
+            //    case "+":
+            //        Console.WriteLine(num1 + num2);
+            //        break;
+            //    case "-":
+            //        Console.WriteLine(num1 - num2);
+            //        break;
+            //    case "*":
+            //        Console.WriteLine(num1 * num2);
+            //        break;
+            //    case "/":
+            //        Console.WriteLine(num1 / num2);
+            //        break;
+            //}
         }
     }
 }

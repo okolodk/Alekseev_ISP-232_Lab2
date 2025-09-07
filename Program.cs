@@ -50,6 +50,32 @@
             //        Console.WriteLine(num1 / num2);
             //        break;
             //}
+            //Задание 7
+            //int day = Convert.ToInt32(Console.ReadLine());
+            //switch (day)
+            //{
+            //    case 1:
+            //        Console.WriteLine("Pn");
+            //        break;
+            //    case 2:
+            //        Console.WriteLine("Vt");
+            //        break;
+            //    case 3:
+            //        Console.WriteLine("Sr");
+            //        break;
+            //    case 4:
+            //        Console.WriteLine("Cht");
+            //        break;
+            //    case 5:
+            //        Console.WriteLine("Pt");
+            //        break;
+            //    case 6:
+            //        Console.WriteLine("Sb");
+            //        break;
+            //    case 7:
+            //        Console.WriteLine("Vs");
+            //        break;
+            //}
         }
     }
 }

@@ -22,7 +22,10 @@
 
             //if (Math.Round(num1, 0) + num4 == Math.Round(num2, 0) - Math.Round(num3, 0)) { Console.WriteLine("Yes"); }
             //else { Console.WriteLine("No"); }
-
+            //Задание 4
+            //int age = Convert.ToInt32(Console.ReadLine());
+            //if (age >= 18) { Console.WriteLine("Доступ разрешен"); }
+            //else { Console.WriteLine("Доступ запрещен"); }
 
         }
     }

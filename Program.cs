@@ -13,6 +13,16 @@
             //string conf_password = Console.ReadLine();
             //if (password == conf_password) { Console.WriteLine("Пароль принят"); }
             //else { Console.WriteLine("Пароль не принят"); }
+            //Задание 3
+            //int num = Convert.ToInt32 (Console.ReadLine());
+            //double num1 = num / 1000;
+            //double num2 = num / 100 % 10;
+            //double num3 = num / 10 % 10;
+            //double num4 = num % 10;
+
+            //if (Math.Round(num1, 0) + num4 == Math.Round(num2, 0) - Math.Round(num3, 0)) { Console.WriteLine("Yes"); }
+            //else { Console.WriteLine("No"); }
+
 
         }
     }

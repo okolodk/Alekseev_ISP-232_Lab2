@@ -113,15 +113,21 @@
             //        break;
             //}
             //Задание 10
-        //    Console.WriteLine($"Здоровье персонажа: {health}");  // Выводим текущее здоровье на экран
-        //    TakeDamage(30);  // Вызываем метод TakeDamage с параметром 30 (урон)
-        //}
-        // Метод, который уменьшает здоровье персонажа
-        //static void TakeDamage(int damage)  // Принимает один параметр: damage — количество урона
-        //{
-        //    health -= damage;  // Уменьшаем здоровье на величину урона
-        //    Console.WriteLine($"Персонаж получил {damage} урона. Текущее здоровье: {health}.");
+            //    Console.WriteLine($"Здоровье персонажа: {health}");  // Выводим текущее здоровье на экран
+            //    TakeDamage(30);  // Вызываем метод TakeDamage с параметром 30 (урон)
+            //}
+            // Метод, который уменьшает здоровье персонажа
+            //static void TakeDamage(int damage)  // Принимает один параметр: damage — количество урона
+            //{
+            //    health -= damage;  // Уменьшаем здоровье на величину урона
+            //    Console.WriteLine($"Персонаж получил {damage} урона. Текущее здоровье: {health}.");
             // Выводим сообщение о получении урона и текущем здоровье
+            //Задание 11
+            //Console.Write("Выбери класс. воин, маг, разбойник, паладин, варвар, охотник, друид, жрец: ");
+            //string class_game = Console.ReadLine();
+            //string[] shooter_class = ["маг", "охотник", "жрец"];
+            //if (shooter_class.Any(n => n == class_game )) { Console.WriteLine($"{class_game} - дальнобойщик"); }
+            //else { Console.WriteLine($"{class_game} - ближний боец"); }
         }
     }
 }

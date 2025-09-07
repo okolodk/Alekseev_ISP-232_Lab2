@@ -38,16 +38,16 @@
 
             //switch (operation) {
             //    case "+":
-            //        Console.WriteLine(num1 + num2);
+            //        Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
             //        break;
             //    case "-":
-            //        Console.WriteLine(num1 - num2);
+            //        Console.WriteLine($"{num1} - {num2} = {num1 - num2}");
             //        break;
             //    case "*":
-            //        Console.WriteLine(num1 * num2);
+            //        Console.WriteLine($"{num1} * {num2} = {num1 * num2}");
             //        break;
             //    case "/":
-            //        Console.WriteLine(num1 / num2);
+            //        Console.WriteLine($"{num1} / {num2} = {num1 / num2}");
             //        break;
             //}
             //Задание 7
@@ -74,6 +74,26 @@
             //        break;
             //    case 7:
             //        Console.WriteLine("Vs");
+            //        break;
+            //}
+            //Задание 8
+            //int num1 = Convert.ToInt32(Console.ReadLine());
+            //int num2 = Convert.ToInt32(Console.ReadLine());
+            //string operation = Console.ReadLine();
+
+            //switch (operation)
+            //{
+            //    case "+":
+            //        Console.WriteLine($"{num1} + {num2} = {num1 + num2}");
+            //        break;
+            //    case "-":
+            //        Console.WriteLine($"{num1} - {num2} = {num1 - num2}");
+            //        break;
+            //    case "*":
+            //        Console.WriteLine($"{num1} * {num2} = {num1 * num2}");
+            //        break;
+            //    case "/":
+            //        Console.WriteLine($"{num1} / {num2} = {num1 / num2}");
             //        break;
             //}
         }

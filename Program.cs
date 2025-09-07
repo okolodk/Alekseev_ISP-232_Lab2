@@ -96,6 +96,21 @@
             //        Console.WriteLine($"{num1} / {num2} = {num1 / num2}");
             //        break;
             //}
+            //Задание 9
+            //int level = Convert.ToInt32(Console.ReadLine());
+            //switch (level)
+            //{
+            //    case 1:
+            //        Console.WriteLine("легкий");
+            //        break;
+            //    case 2: Console.WriteLine("Средний");
+            //        break;
+            //    case 3: Console.WriteLine("Сложный");
+            //        break;
+            //    default:
+            //        Console.WriteLine("Несуществует");
+            //        break;
+            }
         }
     }
 }

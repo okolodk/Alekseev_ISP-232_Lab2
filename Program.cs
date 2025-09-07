@@ -136,6 +136,32 @@
             //    if (a > 0) { sum += a; }
             //}
             //Console.WriteLine(sum);
+            //Задание 13
+            //Console.WriteLine("Выбери путь: А или Б: ");
+            //Console.WriteLine("Путь А: Войти в комнату с огромным драконом.");
+            //Console.WriteLine("Путь Б: Пойти по темному коридору.");
+            //string way = Console.ReadLine();
+
+            //if (way == "А")
+            //{
+            //    Console.WriteLine("Отгодай загадку.");
+            //    Console.WriteLine("Дракон говорит: Кто не дышит, но живет; хоть не нужно — много пьет; и в\r\nжизни, и в смерти тело как лед.");
+            //    Console.Write("Ответ? ");
+            //    string answer = Console.ReadLine().ToLower();
+            //    if (answer == "рыба") { Console.WriteLine("Дверь открыта"); }
+            //    else { Console.WriteLine("Страшная смерть"); }
+            //}
+            //else
+            //{
+            //    Console.WriteLine("Выбери дверь: 1 или 2: ");                                
+            //    string door = Console.ReadLine();
+            //    if (door == "1") {
+            //        Console.WriteLine("За ней скрыты сокровища Dungeon Master’а.");
+            //        Console.WriteLine("Ура, Win"); }
+            //    else {
+            //        Console.WriteLine("За ней — ловушка с ядовитыми шипами");
+            //        Console.WriteLine("Смерть"); }
+            //}
         }
     }
 }
